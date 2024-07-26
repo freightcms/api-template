@@ -6,6 +6,8 @@ import (
 	"github.com/freightcms/api-template/models"
 )
 
+// DbContext provides an API for interacting with Entities. Implement this interface in a way
+// for a Web API, Database, SOAP, WCF, etc.
 type DbContext interface {
 	// CreateEntity creates a new database record with the given obect and returns
 	// the identifier of the record that was created. If there is/was an error within the applicatoin
