@@ -1,3 +1,3 @@
-module github.com/freightcms/api-template/models
+module github.com/freightcms/webservice-template/models
 
 go 1.22.4
