@@ -3,8 +3,6 @@ package main
 import (
 	"net/http"
 
-	"github.com/freightcms/webservice-template/schemas"
-	"github.com/freightcms/webservice-template/services"
 	"github.com/freightcms/webservice-template/web"
 	"github.com/freightcms/webservices-template/db"
 	"github.com/freightcms/webservices-template/db/mongo"
