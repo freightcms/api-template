@@ -3,6 +3,9 @@ package main
 import (
 	"net/http"
 
+	"github.com/freightcms/webservices-template/db/mongo"
+	"github.com/freightcms/webservices-template/db"
+	"github.com/freightcms/webservice-template/services"
 	"github.com/freightcms/webservice-template/schemas"
 	"github.com/freightcms/webservice-template/web"
 	"github.com/graphql-go/graphql"
@@ -17,23 +20,7 @@ func main() {
 				Description: "Get All entities",
 				Type:        web.PaginatedEntitiesObject,
 				Resolve: func(p graphql.ResolveParams) (interface{}, error) {
-					return &struct {
-						ETag        string                 `json:"etag"`
-						Entities    []schemas.EntitySchema `json:"entities"`
-						Count       int                    `json:"count"`
-						PageSize    int                    `json:"pageSize"`
-						Page        int                    `json:"page"`
-						NextUrl     string                 `json:"nextURL"`
-						PreviousUrl string                 `json:"previousURL"`
-					}{
-						ETag:        "",
-						Entities:    []schemas.EntitySchema{},
-						Count:       0,
-						PageSize:    10,
-						Page:        0,
-						NextUrl:     "",
-						PreviousUrl: "",
-					}, nil
+					return p.Context.Value("service").(services.
 				},
 			},
 		},

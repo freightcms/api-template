@@ -11,6 +11,10 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/freightcms/api-template/api v0.0.0-20240725031250-eb07a459ec4c h1:HSs4pNoRDZMcAcG1LyBNsONF4F6X85fUvxLsPJ++1/o=
 github.com/freightcms/api-template/api v0.0.0-20240725031250-eb07a459ec4c/go.mod h1:h2I2mWP08d/OMdOkIZUwcPbDPKJNsT5LPGMh/Ji944g=
+github.com/freightcms/webservice-template/schemas v0.0.0-20240731025747-7c3f9621a950 h1:rpTnvM6LA2ei91ehAio7zru08gqqp7ovSKCxwvftlxM=
+github.com/freightcms/webservice-template/schemas v0.0.0-20240731025747-7c3f9621a950/go.mod h1:viUs5OvDQvjIFSCmsMT5vIWB7M6xCKMp5zu1reCapjw=
+github.com/freightcms/webservice-template/web v0.0.0-20240731025747-7c3f9621a950 h1:GYTO7MU/S4jJKclEh4qE3PGrcKOHs8ZQctMevYE5zVA=
+github.com/freightcms/webservice-template/web v0.0.0-20240731025747-7c3f9621a950/go.mod h1:WN6zxnFfNPpnzlr1jusvCYdrLh3X9pkMmSaveArp8Dw=
 github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uqxgUFjbI0=
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=

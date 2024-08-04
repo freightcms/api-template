@@ -1,10 +1,12 @@
-module github.com/freightcms/api-template
+module github.com/freightcms/webservice-template
 
 go 1.22.4
 
 require (
-	github.com/freightcms/api-template/api v0.0.0-20240725031250-eb07a459ec4c
-	github.com/gin-gonic/gin v1.10.0
+	github.com/freightcms/webservice-template/schemas v0.0.0-20240731025747-7c3f9621a950
+	github.com/freightcms/webservice-template/web v0.0.0-20240731025747-7c3f9621a950
+	github.com/graphql-go/graphql v0.8.1
+	github.com/graphql-go/handler v0.2.4
 )
 
 require (
@@ -18,8 +20,6 @@ require (
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.20.0 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
-	github.com/graphql-go/graphql v0.8.1 // indirect
-	github.com/graphql-go/handler v0.2.4 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.7 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
