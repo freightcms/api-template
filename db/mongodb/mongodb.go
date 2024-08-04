@@ -3,8 +3,8 @@ package mongodb
 import (
 	"context"
 
-	"github.com/freightcms/api-template/db"
-	"github.com/freightcms/api-template/models"
+	"github.com/freightcms/webservice-template/db"
+	"github.com/freightcms/webservice-template/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
