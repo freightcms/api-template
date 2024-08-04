@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/freightcms/api-template/models"
+	"github.com/freightcms/webservice-template/models"
 )
 
 // DbContext provides an API for interacting with Entities. Implement this interface in a way
