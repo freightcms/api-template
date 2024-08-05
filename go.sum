@@ -1,0 +1,6 @@
+github.com/freightcms/webservice-template/web v0.0.0-20240805000435-1a6fb9f48fe3 h1:pbTc2yAqO75wNlBO7VCJKwo+qUUdI8RnTf4za2F/P0k=
+github.com/freightcms/webservice-template/web v0.0.0-20240805000435-1a6fb9f48fe3/go.mod h1:NB83xb/Zdlx3KKf39f4+RbIJKwgehMmHcbYL5bOTgbw=
+github.com/graphql-go/graphql v0.8.1 h1:p7/Ou/WpmulocJeEx7wjQy611rtXGQaAcXGqanuMMgc=
+github.com/graphql-go/graphql v0.8.1/go.mod h1:nKiHzRM0qopJEwCITUuIsxk9PlVlwIiiI8pnJEhordQ=
+github.com/graphql-go/handler v0.2.4 h1:gz9q11TUHPNUpqzV8LMa+rkqM5NUuH/nkE3oF2LS3rI=
+github.com/graphql-go/handler v0.2.4/go.mod h1:gsQlb4gDvURR0bgN8vWQEh+s5vJALM2lYL3n3cf6OxQ=

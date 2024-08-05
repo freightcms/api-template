@@ -3,8 +3,6 @@ package main
 import (
 	"net/http"
 
-	"github.com/freightcms/webservice-template/db"
-	"github.com/freightcms/webservice-template/db/mongodb"
 	"github.com/freightcms/webservice-template/web"
 	"github.com/graphql-go/graphql"
 	"github.com/graphql-go/handler"
