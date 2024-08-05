@@ -1,6 +1,14 @@
+github.com/dotenv-org/godotenvvault v0.6.0 h1:e6rUPELZaPmf6SgxxdB3nACG9VQAE8+omrSSZm0QUgk=
+github.com/dotenv-org/godotenvvault v0.6.0/go.mod h1:q/635WfmO04uUBVwrDWchRPOvPWaplWC6Udm+illcS4=
+github.com/freightcms/webservice-template/db v0.0.0-20240805000435-1a6fb9f48fe3 h1:VcfNnBh1UL7cxsTIsKd17qKEMGim7Kh8XUyBnrOeXI4=
+github.com/freightcms/webservice-template/db v0.0.0-20240805000435-1a6fb9f48fe3/go.mod h1:E/DTz1zPHTCDzXcILUtN+DKuc2ZnOh5EZo0575S79yc=
+github.com/freightcms/webservice-template/models v0.0.0-20240805000435-1a6fb9f48fe3 h1:+DHFTDP8Lh1YK+DSR+JF9/bus0VYJoi4AVZPRRW9e2w=
+github.com/freightcms/webservice-template/models v0.0.0-20240805000435-1a6fb9f48fe3/go.mod h1:aHHwV9FbNHhtwQ5GZtXH86x0u8GpMn4OyMgXk05uZSI=
 github.com/freightcms/webservice-template/web v0.0.0-20240805000435-1a6fb9f48fe3 h1:pbTc2yAqO75wNlBO7VCJKwo+qUUdI8RnTf4za2F/P0k=
 github.com/freightcms/webservice-template/web v0.0.0-20240805000435-1a6fb9f48fe3/go.mod h1:NB83xb/Zdlx3KKf39f4+RbIJKwgehMmHcbYL5bOTgbw=
 github.com/graphql-go/graphql v0.8.1 h1:p7/Ou/WpmulocJeEx7wjQy611rtXGQaAcXGqanuMMgc=
 github.com/graphql-go/graphql v0.8.1/go.mod h1:nKiHzRM0qopJEwCITUuIsxk9PlVlwIiiI8pnJEhordQ=
 github.com/graphql-go/handler v0.2.4 h1:gz9q11TUHPNUpqzV8LMa+rkqM5NUuH/nkE3oF2LS3rI=
 github.com/graphql-go/handler v0.2.4/go.mod h1:gsQlb4gDvURR0bgN8vWQEh+s5vJALM2lYL3n3cf6OxQ=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
